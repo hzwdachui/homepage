@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziqi Wang / hzwangdachui"
+title                    : "Ziqi Wang"
 title_separator          : "-"
 name                     : &name "Ziqi Wang"
 description              : &description "MS student at Stanford"

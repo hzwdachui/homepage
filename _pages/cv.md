@@ -11,7 +11,7 @@ redirect_from:
 
 # Ziqi Wang  
 
-| 6502838057 | wangziqi@stanford.edu | www.linkedin.com/in/ziqi-wang18 |  
+| 6502838057 | [wangziqi@stanford.edu](wangziqi@stanford.edu) | [www.linkedin.com/in/ziqi-wang18](www.linkedin.com/in/ziqi-wang18) |  
 Objective: Seeking fulltime opportunities as a software engineer for 2020
 
 Education

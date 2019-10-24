@@ -50,13 +50,13 @@ PROJECTS
 
 SKILLS
 =====
-Algorithm and Data Structure
-Python, Flask Framework
-C++, Java, SQL
-Database: Redis，MySQL
-Docker container，Helm Charts
-Git
-Computer Vision
-HTML+CSS, JavaScript, AngularJS
+- Algorithm and Data Structure
+- Python, Flask Framework
+- C++, Java, SQL
+- Database: Redis，MySQL
+- Docker container，Helm Charts
+- Git
+- Computer Vision
+- HTML+CSS, JavaScript, AngularJS
 
 

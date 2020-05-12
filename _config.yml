@@ -13,7 +13,7 @@ name                     : &name "Ziqi Wang"
 description              : &description "MS student at Stanford"
 url                      : https://hzwdachui.github.io/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hzwdachui/hzwdachui.github.io"
+repository               : "hzwdachui/homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

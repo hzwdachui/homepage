@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 
-[link to my notes (updating everyday!)](https://github.com/hzwdachui/Notes)
+[link to my notes (updating everyday!)](https://github.com/hzwdachui/Notes)  
+
 [**ResearchLink** (Researcher Community Website) home page](http://49.234.89.22/)
